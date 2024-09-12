@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="synthesizers" size="1.000000 0.676000" />
+    <ImageTarget name="panflute" size="1.000000 1.079134" />
+    <ImageTarget name="harpa" size="1.000000 1.079134" />
+    <ImageTarget name="gitarbass" size="1.000000 1.079134" />
+    <ImageTarget name="trumpet" size="1.000000 1.079134" />
+    <ImageTarget name="clarinet" size="1.000000 1.079134" />
+    <ImageTarget name="harmonika" size="1.000000 1.079134" />
+    <ImageTarget name="seluling" size="1.000000 1.079134" />
+    <ImageTarget name="gitar" size="1.000000 1.000000" />
+    <ImageTarget name="piano" size="1.000000 0.859504" />
+    <ImageTarget name="violin" size="1.000000 0.970917" />
+    <ImageTarget name="drum" size="1.000000 0.665455" />
+  </Tracking>
+</QCARConfig>
